@@ -1,0 +1,12 @@
+.Description {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.FilmDetails {
+  margin-left: 20px;
+}
+
+h2 {
+  font-size: 1em;
+}
